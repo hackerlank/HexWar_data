@@ -1,0 +1,11 @@
+ID,英雄类型,生命值,攻击次数,伤害,士气,费用
+number,number,number,number,number,number,number
+ID,heroType,hp,attackTimes,damage,power,cost
+1,1,1,1,1,1,1
+2,1,1,1,1,1,1
+3,1,1,1,1,1,1
+4,1,1,1,1,1,1
+5,1,1,1,1,1,1
+6,1,1,1,1,1,1
+7,1,1,1,1,1,1
+8,1,1,1,1,1,1

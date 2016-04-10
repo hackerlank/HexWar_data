@@ -1,0 +1,7 @@
+ID,是否冲锋,是否可以移动,是否可以攻击,最小射程,最大射程,类型名字
+number,number,number,number,number,number,string
+ID,canCharge,canMove,canAttack,minRange,maxRange,name
+1,0,1,1,1,1,步
+2,0,1,1,2,2,弓
+3,0,1,1,1,2,法
+4,1,1,1,1,1,骑
