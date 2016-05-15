@@ -1,0 +1,4 @@
+ID,事件名称,事件添加类型,目标类型,目标数量,技能效果,技能数据
+number,number,number,number,number,number,number
+ID,eventName,addType,targetType,targetNum,effectType,effectData
+1,1,1,0,1,1,5
